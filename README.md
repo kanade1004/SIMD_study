@@ -3,7 +3,7 @@
 現在のプログラムをSIMDを使って書き換えてください。
 実装して、ユニットテストが通るようにしてください。
 
-[![MS Build and Test](https://github.com/tpu-game-2021/SIMD_study/actions/workflows/MsBuildAndTest.yml/badge.svg)](https://github.com/tpu-game-2021/SIMD_study/actions/workflows/MsBuildAndTest.yml)
+[![MS Build and Test](https://github.com/kanade1004/SIMD_study/actions/workflows/MsBuildAndTest.yml/badge.svg)](https://github.com/kanade1004/SIMD_study/actions/workflows/MsBuildAndTest.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
